@@ -1,38 +1,35 @@
-# 👋 Hi there, I'm Yaroslav
+# Sup, I'm Yaroslav
 
 Welcome to my GitHub profile!  
 I’m a beginner programmer, currently learning **C++**, **Python**, and **MySQL**.  
 I'm highly motivated to grow into a **software developer** and contribute to impactful projects.  
 I believe in my potential to evolve into a professional capable of creating innovative solutions.
-
+WWW programmer
 ---
 
-## 🎓 Education
+## Education
 
 **Ternopil Ivan Puluj National Technical University**  
 *Bachelor's Degree in Software Engineering (Specialty 121)*  
 **2024 – 2028**  
-Ternopil, Ukraine
+Ukraine
 
 ---
 
-## 💻 Tech Skills
+## Tech Skills
 
-- **Programming Languages:** C/C++, Python (learning in progress)  
+- **Programming Languages:** C/C++, Python   
 - **Database:** MySQL  
 - **Version Control:** Git & GitHub  
-  - Commits  
-  - Pull Requests  
-  - Releases  
 
 ---
 
-## 🎯 Goals
+## Goals
 
-- 🔍 **Area of Interest:** Full-Stack / Backend Development  
-- 💼 **Preferred Role:** Backend Developer  
-- 🧰 **Tech Stack (current):** C++, MySQL, CSS  
-- 🚀 **Learning Objectives:**
+- **Area of Interest:** Full-Stack / Backend Development  
+- **Preferred Role:** Backend Developer  
+- **Tech Stack (current):** C++, MySQL, CSS  
+- **Learning Objectives:**
   - Improve proficiency in Python  
   - Master OOP concepts in C++  
   - Gain solid experience using Git and GitHub in team collaboration  
@@ -41,16 +38,15 @@ Ternopil, Ukraine
 
 ---
 
-## 🧠 Experience
+## Experience
 
 **Self-Education & Practice**  
-- Learning through online platforms like **DataCamp**  
+- Learning through online platforms like **DataCamp**,**CodeWars**,**LeetCode**
 - Watching YouTube tutorials and educational content  
 - Practicing coding through exercises and mini-projects
-
 ---
 
-## 📞 Connect with Me
+## Connect with Me
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yaroslav-hrytsyna-a1a647368/) 
 I’m open to collaboration, mentorship, or just a friendly tech talk!
