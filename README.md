@@ -4,7 +4,9 @@ Welcome to my GitHub profile!
 I’m a beginner programmer, currently learning **C++**, **Python**, and **MySQL**.  
 I'm highly motivated to grow into a **software developer** and contribute to impactful projects.  
 I believe in my potential to evolve into a professional capable of creating innovative solutions.
+
 WWW programmer
+
 ---
 
 ## Education
