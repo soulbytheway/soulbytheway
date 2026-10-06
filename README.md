@@ -1,6 +1,6 @@
 # Sup, I'm Yaroslav
 
-**C++/C**, **Python**, and **MySQL**.  
+**C++/C**, **Python**, and **SQL**.  
 ---
 
 ## Education
